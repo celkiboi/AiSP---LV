@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85201868-9734-4757-BBB7-015454A3F654}"
+	ProjectSection(SolutionItems) = preProject
+		LV3\lista_povrh.c = LV3\lista_povrh.c
+		LV3\lista_povrh.h = LV3\lista_povrh.h
+		LV3\LV3.vcxproj = LV3\LV3.vcxproj
+		LV3\LV3.vcxproj.filters = LV3\LV3.vcxproj.filters
+		LV3\LV3.vcxproj.user = LV3\LV3.vcxproj.user
+		LV3\main.c = LV3\main.c
+		LV3\niz_povrh.c = LV3\niz_povrh.c
+		LV3\niz_povrh.h = LV3\niz_povrh.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE93F35B-6520-408D-B333-EE0CD14EB62C}
+	EndGlobalSection
+EndGlobal

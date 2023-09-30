@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C1F34BAF-805A-4D49-8B19-008BB6DC89A9}"
+	ProjectSection(SolutionItems) = preProject
+		LV4\LV4.vcxproj = LV4\LV4.vcxproj
+		LV4\LV4.vcxproj.filters = LV4\LV4.vcxproj.filters
+		LV4\LV4.vcxproj.user = LV4\LV4.vcxproj.user
+		LV4\main.c = LV4\main.c
+		LV4\PBS.c = LV4\PBS.c
+		LV4\PBS.h = LV4\PBS.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64AB6FDB-7CA2-42B4-B931-310CF1D39C40}
+	EndGlobalSection
+EndGlobal
